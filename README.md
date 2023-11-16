@@ -1,9 +1,37 @@
-# english_coach
-Uses custom GPT tuned for english speaking practice
+# English Coach
 
-If you are using vscode, Run the following in the terminal:
-1. cd to the folder
-2. activate virtual environment: source venv/bin/activate 
-3. export OPENAI_API_KEY= 'your open api key'
-4. python app.py
-5. run index.html in live server
+## Description
+English Coach is a web application designed to help users improve their English language skills. It features an interactive speech recognition system that transcribes user speech and responds with audio feedback.
+
+## Features
+- Speech-to-text conversion
+- Dynamic response generation
+- Audio playback of responses
+
+## Technologies Used
+- HTML, CSS, JavaScript
+- Speech Recognition API
+- Flask (Python)
+- OpenAI API for text-to-speech functionality
+- 
+
+## Setup and Installation
+1. Clone the repository: `git clone https://github.com/abhishek1377/english_coach.git`
+2. Install dependencies (if any)
+3. cd to the english_coach folder
+4. activate virtual environment: source venv/bin/activate
+5. export OPENAI_API_KEY= 'your open api key'
+6. Run the Flask server: `python app.py`
+7. Open `index.html` in a web browser(preferrable using a liver server extention in vscode)
+
+## Usage
+Click on the 'Start' button and speak into your microphone. The application will transcribe your speech and respond with relevant audio feedback.
+
+## Contributing
+Contributions to the English Coach project are welcome. Please fork the repository and submit a pull request with your changes.
+
+## License
+[MIT License](LICENSE) - Feel free to use and modify the project as you like.
+
+## Acknowledgments
+Thanks to all contributors and users for their support and feedback.
