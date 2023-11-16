@@ -30,8 +30,5 @@ Click on the 'Start' button and speak into your microphone. The application will
 ## Contributing
 Contributions to the English Coach project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-[MIT License](LICENSE) - Feel free to use and modify the project as you like.
-
 ## Acknowledgments
 Thanks to all contributors and users for their support and feedback.
