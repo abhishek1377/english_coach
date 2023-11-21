@@ -9,7 +9,7 @@ English Coach is a web application designed to help users improve their English 
 - Audio playback of responses
 
 ## Technologies Used
-- Python
+- Flask(Python)
 - HTML, CSS, JavaScript
 - Speech Recognition API
 - OpenAI API for text-to-speech functionality
