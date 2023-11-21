@@ -9,11 +9,10 @@ English Coach is a web application designed to help users improve their English 
 - Audio playback of responses
 
 ## Technologies Used
+- Python
 - HTML, CSS, JavaScript
 - Speech Recognition API
-- Flask (Python)
 - OpenAI API for text-to-speech functionality
-- 
 
 ## Setup and Installation
 1. Clone the repository: `git clone https://github.com/abhishek1377/english_coach.git`
